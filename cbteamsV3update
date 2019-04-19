@@ -1,0 +1,1229 @@
+{
+	"bowlGames": ["Rose Bowl", "Orange Bowl", "Sugar Bowl", "Fiesta Bowl", "Cotton Bowl", "Peach Bowl", "Citrus Bowl", "Gator Bowl", "Outback Bowl", "Sun Bowl", "Alamo Bowl", "Liberty Bowl", "Independence Bowl", "Holiday Bowl", "Music City Bowl", "Pinstripe Bowl", "Maple Leaf Bowl", "Aztec Bowl", "Royal Bowl", "Austin Bowl", "Melbourne Bowl", "Sidengo Bowl", "OwnLocal Bowl", "HireMonk Bowl", "Belk Bowl", "Cheez-It Bowl", "Camping World Bowl", "Las Vegas Bowl"],
+  "conferences": [
+    {
+      "confName": "SEC",
+      "confFullName": "SEC",
+      "confPrestige" : "95",
+      "confTeams": [
+        {
+          "name": "Alabama",
+          "abbreviation": "BAMA",
+          "prestige": "94",
+          "state": "Alabama",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "67",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Nick Saban",
+            "contractYear" : "2"
+          },
+          "rival": "AUB"
+        },
+        {
+          "name": "Georgia",
+          "abbreviation": "UGA",
+          "prestige": "92",
+          "state": "Georgia",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "43",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Kirby Smart",
+            "contractYear" : "2"
+          },
+          "rival": "FLA"
+        },
+        {
+          "name": "Florida",
+          "abbreviation": "FLA",
+          "prestige": "85",
+          "state": "Florida",
+          "rival": "UGA"
+        },
+        {
+          "name": "Tennessee",
+          "abbreviation": "TENN",
+          "prestige": "35",
+          "state": "Tennessee",
+          "rival": "UK"
+        },
+        {
+          "name": "Texas A&M",
+          "abbreviation": "TAMU",
+          "prestige": "75",
+          "state": "Texas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "53",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Jimbo Fisher",
+            "contractYear" : "2"
+          },
+          "rival": "MIZZ"
+        },
+        {
+          "name": "LSU",
+          "abbreviation": "LSU",
+          "prestige": "85",
+          "state": "Louisiana",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "57",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Ed Orgeron",
+            "contractYear" : "2"
+          },
+          "rival": "ARK"
+        },
+        {
+          "name": "Arkansas",
+          "abbreviation": "ARK",
+          "prestige": "35",
+          "state": "Arkansas",
+          "rival": "LSU"
+        },
+        {
+          "name": "Missouri",
+          "abbreviation": "MIZZ",
+          "prestige": "50",
+          "state": "Missouri",
+          "rival": "TAMU"
+        },
+        {
+          "name": "Kentucky",
+          "abbreviation": "UK",
+          "prestige": "70",
+          "state": "Kentucky",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "51",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Mark Stoops",
+            "contractYear" : "2"
+          },
+          "rival": "TENN"
+        },
+        {
+          "name": "Auburn",
+          "abbreviation": "AUB",
+          "prestige": "75",
+          "state": "Alabama",
+          "rival": "ALA"
+        }
+      ]
+    },
+    {
+      "confName": "B1G",
+      "confFullName": "Big Ten",
+      "confPrestige" : "90",
+      "confTeams": [
+        {
+          "name": "Ohio State",
+          "abbreviation": "OSU",
+          "prestige": "92",
+          "state": "Ohio",
+          "headCoach" : {
+            "age" : "40",
+            "name" : "Ryan Day"
+          },
+          "rival": "MICH"
+        },
+        {
+          "name": "Michigan",
+          "abbreviation": "MICH",
+          "prestige": "88",
+          "state": "Michigan",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "55",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Jim Harbaugh",
+            "contractYear" : "2"
+          },
+          "rival": "OSU"
+        },
+        {
+          "name": "Michigan State",
+          "abbreviation": "MSU",
+          "prestige": "65",
+          "state": "Michigan",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "63",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Mark Dantonio",
+            "contractYear" : "2"
+          },
+          "rival": "PSU"
+        },
+        {
+          "name": "Wisconsin",
+          "abbreviation": "WIS",
+          "prestige": "72",
+          "state": "Wisconsin",
+          "rival": "MINN"
+        },
+        {
+          "name": "Minnesota",
+          "abbreviation": "MINN",
+          "prestige": "40",
+          "state": "Minnesota",
+          "rival": "WIS"
+        },
+        {
+          "name": "Purdue",
+          "abbreviation": "PUR",
+          "prestige": "50",
+          "state": "Indiana",
+          "rival": "NW"
+        },
+        {
+          "name": "Iowa",
+          "abbreviation": "IOWA",
+          "prestige": "70",
+          "state": "Iowa",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "63",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Kirk Ferentz",
+            "contractYear" : "2"
+          },
+          "rival": "NEB"
+        },
+        {
+          "name": "Northwestern",
+          "abbreviation": "NW",
+          "prestige": "70",
+          "state": "Illinois",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "44",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Pat Fitzgerald",
+            "contractYear" : "2"
+          },
+          "rival": "PUR"
+        },
+        {
+          "name": "Penn State",
+          "abbreviation": "PSU",
+          "prestige": "80",
+          "state": "Pennsylvania",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "47",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "James Franklin",
+            "contractYear" : "2"
+          },
+          "rival": "MSU"
+        },
+        {
+          "name": "Nebraska",
+          "abbreviation": "NEB",
+          "prestige": "60",
+          "state": "Nebraska",
+          "headCoach" : {
+            "age" : "44",
+            "name" : "Scott Frost"
+          },
+          "rival": "IOWA"
+        }
+      ]
+    },
+    {
+      "confName": "ACC",
+      "confFullName": "ACC",
+      "confPrestige" : "75",
+      "confTeams": [
+        {
+          "name": "Virginia",
+          "abbreviation": "UVA",
+          "prestige": "55",
+          "state": "Virginia",
+          "rival": "VT"
+        },
+        {
+          "name": "Boston College",
+          "abbreviation": "BC",
+          "prestige": "55",
+          "state": "Massachusetts",
+          "rival": "SYR"
+        },
+        {
+          "name": "Clemson",
+          "abbreviation": "CLEM",
+          "prestige": "95",
+          "state": "South Carolina",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "49",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Dabo Swinney",
+            "contractYear" : "2"
+          },
+          "rival": "FSU"
+        },
+        {
+          "name": "Miami",
+          "abbreviation": "MIA",
+          "prestige": "80",
+          "state": "Florida",
+          "rival": "UNC"
+        },
+        {
+          "name": "North Carolina",
+          "abbreviation": "UNC",
+          "prestige": "60",
+          "state": "North Carolina",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "67",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Mack Brown",
+            "contractYear" : "2"
+          },
+          "rival": "MIA"
+        },
+        {
+          "name": "Georgia Tech",
+          "abbreviation": "GT",
+          "prestige": "40",
+          "state": "Georgia",
+          "rival": "PITT"
+        },
+        {
+          "name": "Virginia Tech",
+          "abbreviation": "VT",
+          "presitge": "45",
+          "state": "Virginia",
+          "rival": "UVA"
+        },
+        {
+          "name": "Pittsburgh",
+          "abbreviation": "PITT",
+          "prestige": "50",
+          "state": "Pennsylvania",
+          "rival": "GT"
+        },
+        {
+          "name": "Syracuse",
+          "abbreviation": "SYR",
+          "prestige": "65",
+          "state": "New York",
+          "rival": "BC"
+        },
+        {
+          "name": "Florida State",
+          "abbreviation": "FSU",
+          "prestige": "55",
+          "state": "Florida",
+          "rival": "CLEM"
+        }
+      ]
+    },
+    {
+      "confName": "B12",
+      "confFullName": "Big 12",
+      "confPrestige" : "80",
+      "confTeams": [
+        {
+          "name": "Oklahoma",
+          "abbreviation": "OKLA",
+          "prestige": "92",
+          "state": "Oklahoma",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "35",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Lincoln Riley",
+            "contractYear" : "2"
+          },
+          "rival": "TEX"
+        },
+        {
+          "name": "Texas",
+          "abbreviation": "TEX",
+          "prestige": "90",
+          "state": "Texas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "43",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Tom Herman",
+            "contractYear" : "2"
+          },
+          "rival": "OKLA"
+        },
+        {
+          "name": "Iowa State",
+          "abbreviation": "ISU",
+          "prestige": "65",
+          "state": "Iowa",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "39",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Matt Campbell",
+            "contractYear" : "2"
+          },
+          "rival": "WVU"
+        },
+        {
+          "name": "TCU",
+          "abbreviation": "TCU",
+          "prestige": "55",
+          "state": "Texas",
+          "rival": "BAY"
+        },
+        {
+          "name": "Baylor",
+          "abbreviation": "BAY",
+          "prestige": "55",
+          "state": "Texas",
+          "rival": "TCU"
+        },
+        {
+          "name": "Oklahoma St",
+          "abbreviation": "OKST",
+          "prestige": "55",
+          "state": "Oklahoma",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "51",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Mike Gundy",
+            "contractYear" : "2"
+          },
+          "rival": "TTU"
+        },
+        {
+          "name": "Kansas St",
+          "abbreviation": "KSU",
+          "prestige": "45",
+          "state": "Kansas",
+          "rival": "KU"
+        },
+        {
+          "name": "West Virginia",
+          "abbreviation": "WVU",
+          "prestige": "75",
+          "state": "West Virginia",
+          "rival": "ISU"
+        },
+        {
+          "name": "Kansas",
+          "abbreviation": "KU",
+          "prestige": "26",
+          "state": "Kansas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "65",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Les Miles",
+            "contractYear" : "2"
+          },
+          "rival": "KSU"
+        },
+        {
+          "name": "Texas Tech",
+          "abbreviation": "TTU",
+          "prestige": "45",
+          "state": "Texas",
+          "rival": "OKST"
+        }
+      ]
+    },
+    {
+      "confName": "PAC",
+      "confFullName": "Pac 12",
+      "confPrestige" : "80",
+      "confTeams": [
+        {
+          "name": "California",
+          "abbreviation": "CAL",
+          "prestige": "60",
+          "state": "California",
+          "rival": "STAN"
+        },
+        {
+          "name": "Oregon",
+          "abbreviation": "ORE",
+          "prestige": "78",
+          "state": "Oregon",
+          "rival": "COL"
+        },
+        {
+          "name": "UCLA",
+          "abbreviation": "UCLA",
+          "prestige": "45",
+          "state": "California",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "55",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Chip Kelly",
+            "contractYear" : "2"
+          },
+          "rival": "USC"
+        },
+        {
+          "name": "USC",
+          "abbreviation": "USC",
+          "prestige": "70",
+          "state": "California",
+          "rival": "UCLA"
+        },
+        {
+          "name": "Washington",
+          "abbreviation": "WASH",
+          "prestige": "83",
+          "state": "Washington",
+          "headCoach" : {
+            "age" : "54",
+            "name" : "Chris Petersen"
+          },
+          "rival": "WSU"
+        },
+        {
+          "name": "Arizona",
+          "abbreviation": "ARIZ",
+          "prestige": "60",
+          "state": "Arizona",
+          "rival": "ASU"
+        },
+        {
+          "name": "Stanford",
+          "abbreviation": "STAN",
+          "prestige": "75",
+          "state": "California",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "46",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "David Shaw",
+            "contractYear" : "2"
+          },
+          "rival": "CAL"
+        },
+        {
+          "name": "Washington State",
+          "abbreviation": "WSU",
+          "prestige": "80",
+          "state": "Washington",
+          "headCoach" : {
+            "age" : "58",
+            "name" : "Mike Leach"
+          },
+          "rival": "WASH"
+        },
+        {
+          "name": "Colorado",
+          "abbreviation": "COL",
+          "prestige": "50",
+          "state": "Colorado",
+          "rival": "ORE"
+        },
+        {
+          "name": "Arizona State",
+          "abbreviation": "ASU",
+          "prestige": "55",
+          "state": "Arizona",
+          "headCoach" : {
+            "age" : "64",
+            "name" : "Herm Edwards"
+          },
+          "rival": "ARIZ"
+        }
+      ]
+    },
+    {
+      "confName": "NAC",
+      "confFullName": "North American",
+      "confPrestige" : "75",
+      "confTeams": [
+        {
+          "name": "Notre Dame",
+          "abbreviation": "ND",
+          "prestige": "92",
+          "state": "Indiana",
+          "rival": "BYU"
+        },
+        {
+          "name": "BYU",
+          "abbreviation": "BYU",
+          "prestige": "40",
+          "state": "Utah",
+          "rival": "ND"
+        },
+        {
+          "name": "Army",
+          "abbreviation": "ARMY",
+          "prestige": "60",
+          "state": "New York",
+          "rival": "NAVY"
+        },
+        {
+          "name": "Navy",
+          "abbreviation": "NAVY",
+          "prestige": "26",
+          "state": "Maryland",
+          "rival": "ARMY"
+        },
+        {
+          "name": "Illinois",
+          "abbreviation": "ILL",
+          "prestige": "40",
+          "state": "Illinois",
+          "rival": "IU"
+        },
+        {
+          "name": "Indiana",
+          "abbreviation": "IU",
+          "prestige": "40",
+          "state": "Indiana",
+          "rival": "ILL"
+        },
+        {
+          "name": "Duke",
+          "abbreviation": "DUKE",
+          "prestige": "40",
+          "state": "North Carolina",
+          "rival": "UL"
+        },
+        {
+          "name": "Louisville",
+          "abbreviation": "UL",
+          "prestige": "45",
+          "state": "Kentucky",
+          "rival": "DUKE"
+        },
+        {
+          "name": "Maryland",
+          "abbreviation": "MAR",
+          "prestige": "40",
+          "state": "Maryland",
+          "rival": "RUT"
+        },
+        {
+          "name": "Rutgers",
+          "abbreviation": "RUT",
+          "prestige": "40",
+          "state": "New Jersey",
+          "rival": "MAR"
+        }
+      ]
+    },
+    {
+      "confName": "GCC",
+      "confFullName": "Gulf Coast",
+      "confPrestige" : "25",
+      "confTeams": [
+        {
+          "name": "Ole Miss",
+          "abbreviation": "MISS",
+          "prestige": "45",
+          "state": "Mississippi",
+          "rival": "MSST"
+        },
+        {
+          "name": "Mississippi St",
+          "abbreviation": "MSST",
+          "prestige": "40",
+          "state": "Mississippi",
+          "rival": "MISS"
+        },
+        {
+          "name": "Vanderbilt",
+          "abbreviation": "VAN",
+          "prestige": "40",
+          "state": "Tennessee",
+          "rival": "SC"
+        },
+        {
+          "name": "South Carolina",
+          "abbreviation": "SC",
+          "prestige": "40",
+          "state": "South Carolina",
+          "rival": "VAN"
+        },
+        {
+          "name": "Utah",
+          "abbreviation": "UTAH",
+          "prestige": "40",
+          "state": "Utah",
+          "rival": "ORST"
+        },
+        {
+          "name": "Oregon State",
+          "abbreviation": "ORST",
+          "prestige": "40",
+          "state": "Oregon",
+          "rival": "UTAH"
+        },
+        {
+          "name": "NC State",
+          "abbreviation": "NCST",
+          "prestige": "40",
+          "state": "North Carolina",
+          "rival": "WAKE"
+        },
+        {
+          "name": "Wake Forest",
+          "abbreviation": "WAKE",
+          "prestige": "40",
+          "state": "North Carolina",
+          "rival": "NCST"
+        },
+        {
+          "name": "Rice",
+          "abbreviation": "RICE",
+          "prestige": "25",
+          "state": "Texas",
+          "rival": "UTEP"
+        },
+        {
+          "name": "UTEP",
+          "abbreviation": "UTEP",
+          "prestige": "25",
+          "state": "Texas",
+          "rival": "RICE"
+        }
+      ]
+    },
+    {
+      "confName": "AAC",
+      "confFullName": "American Athletic",
+      "confPrestige" : "25",
+      "confTeams": [
+        {
+          "name": "Central Florida",
+          "abbreviation": "UCF",
+          "prestige": "85",
+          "state": "Florida",
+          "rival": "USF"
+        },
+        {
+          "name": "South Florida",
+          "abbreviation": "USF",
+          "prestige": "30",
+          "state": "Florida",
+          "rival": "UCF"
+        },
+        {
+          "name": "Houston",
+          "abbreviation": "HOU",
+          "prestige": "60",
+          "state": "Texas",
+          "rival": "SMU"
+        },
+        {
+          "name": "SMU",
+          "abbreviation": "SMU",
+          "prestige": "25",
+          "state": "Texas",
+          "rival": "HOU"
+        },
+        {
+          "name": "Cincinnati",
+          "abbreviation": "UC",
+          "prestige": "30",
+          "state": "Ohio",
+          "rival": "MEM"
+        },
+        {
+          "name": "Memphis",
+          "abbreviation": "MEM",
+          "prestige": "30",
+          "state": "Tennessee",
+          "rival": "UC"
+        },
+        {
+          "name": "Connecticut",
+          "abbreviation": "CONN",
+          "prestige": "30",
+          "state": "Connecticut",
+          "rival": "TEM"
+        },
+        {
+          "name": "Temple",
+          "abbreviation": "TEM",
+          "prestige": "30",
+          "state": "Pennsylvania",
+          "rival": "CONN"
+        },
+        {
+          "name": "Tulane",
+          "abbreviation": "TUL",
+          "prestige": "30",
+          "state": "Louisiana",
+          "rival": "ECU"
+        },
+        {
+          "name": "East Carolina",
+          "abbreviation": "ECU",
+          "prestige": "30",
+          "state": "North Carolina",
+          "rival": "TUL"
+        }
+      ]
+    },
+    {
+      "confName": "MWC",
+      "confFullName": "Mountain West",
+      "confPrestige" : "25",
+      "confTeams": [
+        {
+          "name": "Air Force",
+          "abbreviation": "AF",
+          "prestige": "25",
+          "state": "Colorado",
+          "rival": "CSU"
+        },
+        {
+          "name": "Colorado State",
+          "abbreviation": "CSU",
+          "prestige": "25",
+          "state": "Colorado",
+          "rival": "AF"
+        },
+        {
+          "name": "Fresno State",
+          "abbreviation": "FRES",
+          "prestige": "45",
+          "state": "California",
+          "rival": "SDSU"
+        },
+        {
+          "name": "San Diego State",
+          "abbreviation": "SDSU",
+          "prestige": "25",
+          "state": "California",
+          "rival": "FRES"
+        },
+        {
+          "name": "UNLV",
+          "abbreviation": "UNLV",
+          "prestige": "25",
+          "state": "Nevada",
+          "rival": "NEV"
+        },
+        {
+          "name": "Nevada",
+          "abbreviation": "NEV",
+          "prestige": "25",
+          "state": "Nevada",
+          "rival": "UNLV"
+        },
+        {
+          "name": "Boise State",
+          "abbreviation": "BSU",
+          "prestige": "45",
+          "state": "Idaho",
+          "rival": "WYO"
+        },
+        {
+          "name": "Wyoming",
+          "abbreviation": "WYO",
+          "prestige": "25",
+          "state": "Wyoming",
+          "rival": "BSU"
+        },
+        {
+          "name": "New Mexico",
+          "abbreviation": "UNM",
+          "prestige": "25",
+          "state": "New Mexico",
+          "rival": "HAW"
+        },
+        {
+          "name": "Hawaii",
+          "abbreviation": "HAW",
+          "prestige": "25",
+          "state": "Hawaii",
+          "rival": "UNM"
+        }
+      ]
+    },
+    {
+      "confName": "MAC",
+      "confFullName": "Mid American",
+      "confPrestige" : "25",
+      "confTeams": [
+        {
+          "name": "Bowling Green",
+          "abbreviation": "BGU",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "TOL"
+        },
+        {
+          "name": "Toledo",
+          "abbreviation": "TOL",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "BGU"
+        },
+        {
+          "name": "Northern Illinois",
+          "abbreviation": "NIU",
+          "prestige": "25",
+          "state": "Illinois",
+          "rival": "BALL"
+        },
+        {
+          "name": "Ball State",
+          "abbreviation": "BALL",
+          "prestige": "25",
+          "state": "Indiana",
+          "rival": "NIU"
+        },
+        {
+          "name": "Akron",
+          "abbreviation": "AKR",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "KENT"
+        },
+        {
+          "name": "Kent State",
+          "abbreviation": "KENT",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "AKR"
+        },
+        {
+          "name": "Buffalo",
+          "abbreviation": "UB",
+          "prestige": "25",
+          "state": "New York",
+          "rival": "OHIO"
+        },
+        {
+          "name": "Ohio",
+          "abbreviation": "OHIO",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "UB"
+        },
+        {
+          "name": "Marshall",
+          "abbreviation": "MRS",
+          "prestige": "25",
+          "state": "West Virginia",
+          "rival": "LIB"
+        },
+        {
+          "name": "Liberty",
+          "abbreviation": "LIB",
+          "prestige": "25",
+          "state": "Virginia",
+          "rival": "MRS"
+        }
+      ]
+    },
+    {
+      "confName": "IVY",
+      "confFullName": "Ivy League",
+      "confPrestige" : "25",
+      "confTeams": [
+        {
+          "name": "Harvard",
+          "abbreviation": "HARV",
+          "prestige": "25",
+          "state": "Massachusetts",
+          "rival": "YALE"
+        },
+        {
+          "name": "Yale",
+          "abbreviation": "YALE",
+          "prestige": "25",
+          "state": "Connecticut",
+          "rival": "HARV"
+        },
+        {
+          "name": "Princeton",
+          "abbreviation": "PRIN",
+          "prestige": "25",
+          "state": "New Jersey",
+          "rival": "PENN"
+        },
+        {
+          "name": "Penn",
+          "abbreviation": "PENN",
+          "prestige": "25",
+          "state": "Pennsylvania",
+          "rival": "PRIN"
+        },
+        {
+          "name": "Brown",
+          "abbreviation": "BRWN",
+          "prestige": "25",
+          "state": "Rhode Island",
+          "rival": "DART"
+        },
+        {
+          "name": "Dartmouth",
+          "abbreviation": "DART",
+          "prestige": "25",
+          "state": "New Hampshire",
+          "rival": "BRWN"
+        },
+        {
+          "name": "Cornell",
+          "abbreviation": "CORN",
+          "prestige": "25",
+          "state": "New York",
+          "rival": "COLU"
+        },
+        {
+          "name": "Columbia",
+          "abbreviation": "COLU",
+          "prestige": "25",
+          "state": "New York",
+          "rival": "CORN"
+        },
+        {
+          "name": "MIT",
+          "abbreviation": "MIT",
+          "prestige": "25",
+          "state": "Massachusetts",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "32",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Jorge González",
+            "contractYear" : "2"
+          },
+          "rival": "JHU"
+        },
+        {
+          "name": "Johns Hopkins",
+          "abbreviation": "JHU",
+          "prestige": "25",
+          "state": "Maryland",
+          "rival": "MIT"
+        }
+      ]
+    },
+    {
+      "confName": "FCS",
+      "confFullName": "Division IAA",
+      "confPrestige" : "5",
+      "confTeams": [
+        {
+          "name": "Northern Iowa",
+          "abbreviation": "UNI",
+          "prestige": "25",
+          "state": "Iowa",
+          "rival": "DRAK"
+        },
+        {
+          "name": "Drake",
+          "abbreviation": "DRAK",
+          "prestige": "25",
+          "state": "Iowa",
+          "rival": "UNI"
+        },
+        {
+          "name": "William & Mary",
+          "abbreviation": "WM",
+          "prestige": "25",
+          "state": "Virginia",
+          "rival": "RICH"
+        },
+        {
+          "name": "Richmond",
+          "abbreviation": "RICH",
+          "prestige": "25",
+          "state": "Virginia",
+          "rival": "WM"
+        },
+        {
+          "name": "Texas State",
+          "abbreviation": "TXST",
+          "prestige": "25",
+          "state": "Texas",
+          "rival": "APST"
+        },
+        {
+          "name": "Appalachian State",
+          "abbreviation": "APST",
+          "prestige": "25",
+          "state": "North Carolina",
+          "rival": "TXST"
+        },
+        {
+          "name": "North Dakota State",
+          "abbreviation": "NDSU",
+          "prestige": "25",
+          "state": "North Dakota",
+          "rival": "IDA"
+        },
+        {
+          "name": "Idaho",
+          "abbreviation": "IDA",
+          "prestige": "25",
+          "state": "Idaho",
+          "rival": "NDSU"
+        },
+        {
+          "name": "Youngstown State",
+          "abbreviation": "YSU",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "DAY"
+        },
+        {
+          "name": "Dayton",
+          "abbreviation": "DAY",
+          "prestige": "25",
+          "state": "Ohio",
+          "rival": "YSU"
+        }
+      ]
+    }
+  ]
+}
